@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ung Huynh Phuc
-- 👀 I’m interested in playing GI 🎮, reading books or novels📘, and singing 🎤,...
+- 👀 I’m interested in playing GI 🎮, reading books or novels📘, and drawing ✏️, writing Chinese words 🏯,...
 - 🌱 I’m currently learning C++, HTML, CSS, Javascript,...
-- 🔎 I'm looking for a beginner job (intern)
+- 🔎 I wanna try to look for a beginner job (intern)
 
 <!---
 uhphuc/uhphuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
