@@ -40,7 +40,6 @@ Here’s a cute little friend to brighten your day:
 ## 🌈 **Stats & Contributions**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uhphuc&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=uhphuc&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -52,7 +51,7 @@ Feel free to reach out if:
 - You just want to say hi!  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/unghuynhphuc" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:your-email@example.com" target="_blank">
